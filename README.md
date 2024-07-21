@@ -1,1 +1,4 @@
 # projectsite
+
+- theme
+- findings
